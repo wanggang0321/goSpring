@@ -1,0 +1,6 @@
+com\luwak\gospring\annotation\Autowired.class
+com\luwak\gospring\annotation\RequestParam.class
+com\luwak\gospring\annotation\RequestMapping.class
+com\luwak\gospring\servlet\DispatchServlet.class
+com\luwak\gospring\annotation\Service.class
+com\luwak\gospring\annotation\Controller.class
